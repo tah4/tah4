@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Taha</h1>
-<h3 align="center">A passionate developer from Iraq</h3>
+<h1 align="center">yo It's Taha</h1>
+<h3 align="center">An ordinary AI student</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tah4&label=Profile%20views&color=0e75b6&style=flat" alt="tah4" /> </p>
 
