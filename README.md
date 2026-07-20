@@ -36,7 +36,7 @@ class Taha:
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,vscode,git,github,linux" />
+<img src="https://skillicons.dev/icons?i=python,vscode,github" />
 
 </p>
 
