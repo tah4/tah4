@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋 I'm Taha</h1>
 
-<h3 align="center">AI Student • Python Learner </h3>
+<h3 align="center">AI Student • Python Learner</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=3500&pause=1000&color=BB9AF7&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;AI+Student;Learning+Python;Building+Cool+Projects" />
@@ -46,6 +46,30 @@ class Taha:
 
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=tah4&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+# 📊 Most Used Languages
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tah4&layout=donut&theme=tokyonight&hide_border=true&langs_count=8"/>
+</p>
+
+---
+
+# 📈 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=tah4&show_icons=true&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=tah4&theme=tokyonight&no-frame=true&margin-w=10"/>
 </p>
 
 ---
