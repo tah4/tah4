@@ -72,6 +72,6 @@ class Taha:
 
 <h3 align="center">
 
-⭐ Thanks for visiting my profile ⭐
+Thanks for visiting my profile :')
 
 </h3>
