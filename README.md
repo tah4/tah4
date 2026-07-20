@@ -28,7 +28,6 @@ class Taha:
 - 🤖 AI Student
 - 🐍 Currently learning Python
 - 💡 Interested in AI & Software Development
-- 🚀 Building projects while learning
 
 ---
 
