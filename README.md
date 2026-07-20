@@ -6,10 +6,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=3500&pause=1000&color=BB9AF7&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;AI+Student;Learning+Python;Building+Cool+Projects" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=tah4&style=for-the-badge&color=7C3AED" />
-</p>
-
 ---
 
 # 💫 About Me
