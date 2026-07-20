@@ -1,44 +1,48 @@
 <h1 align="center">Hi 👋 I'm Taha</h1>
 
-<h3 align="center">An ordinary AI student trying to become an extraordinary developer 🚀</h3>
+<h3 align="center">AI Student • Python Learner • Future Software Engineer</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=tah4&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=3500&pause=1000&color=BB9AF7&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;AI+Student;Learning+Python;Building+Cool+Projects" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3500&pause=1000&center=true&vCenter=true&width=500&lines=AI+Student;Python+Learner;Future+Software+Engineer;Always+Learning+New+Things" />
-</p>
-
----
-
-## 🌱 Currently Learning
-
-- 🐍 Python
-- 🤖 Artificial Intelligence
-- 💻 Programming Fundamentals
-
----
-
-## 🌐 Connect With Me
-
-<p align="center">
-<a href="https://instagram.com/tah4">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="40"/>
-</a>
+  <img src="https://komarev.com/ghpvc/?username=tah4&style=for-the-badge&color=7C3AED" />
 </p>
 
 ---
 
-## 🛠 Languages & Tools
+# 💫 About Me
+
+```python
+class Taha:
+
+    name = "Taha"
+    location = "Iraq"
+    learning = ["Python", "Artificial Intelligence"]
+
+    def motto(self):
+        return "Keep Learning 🚀"
+```
+
+- 🤖 AI Student
+- 🐍 Currently learning Python
+- 💡 Interested in AI & Software Development
+- 🚀 Building projects while learning
+
+---
+
+# 🛠 Tech Stack
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="55" height="55"/>
+
+<img src="https://skillicons.dev/icons?i=python,vscode,git,github,linux" />
+
 </p>
 
 ---
 
-## 🔥 GitHub Streak
+# 🔥 GitHub Streak
 
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=tah4&theme=tokyonight&hide_border=true"/>
@@ -46,23 +50,28 @@
 
 ---
 
-## 📊 GitHub Stats
+# 📈 Contribution Graph
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=tah4&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tah4&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=tah4&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ---
 
-## 🏆 GitHub Trophies
+# 🌐 Connect With Me
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=tah4&theme=tokyonight&no-frame=true&row=1&column=6"/>
+
+<a href="https://instagram.com/tah4">
+<img src="https://skillicons.dev/icons?i=instagram" />
+</a>
+
 </p>
 
 ---
 
-<p align="center">
-✨ Thanks for visiting my profile! ✨
-</p>
+<h3 align="center">
+
+⭐ Thanks for visiting my profile ⭐
+
+</h3>
