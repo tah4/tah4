@@ -12,7 +12,7 @@
 
 ---
 
-# 💫 About Me
+## 💫 About Me
 
 ```python
 class Taha:
@@ -32,70 +32,64 @@ class Taha:
 
 ---
 
-# 🛠 Tech Stack
+## 🛠 Tech Stack
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,vscode,github" />
-
+  <img src="https://skillicons.dev/icons?i=python,vscode,github" />
 </p>
 
 ---
 
-# 🔥 GitHub Streak
+## 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=tah4&theme=tokyonight&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=tah4&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-# 📊 Most Used Languages
+## 📊 Most Used Languages
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tah4&layout=donut&theme=tokyonight&hide_border=true&langs_count=8"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tah4&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 </p>
 
 ---
 
-# 📈 GitHub Stats
+## 📈 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=tah4&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=tah4&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-# 🏆 GitHub Trophies
+## 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=tah4&theme=tokyonight&no-frame=true&margin-w=10"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=tah4&theme=tokyonight&no-frame=true&margin-w=10" />
 </p>
 
 ---
 
-# 📈 Contribution Graph
+## 📈 Contribution Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=tah4&theme=tokyo-night&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tah4&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
 
-# 🌐 Connect With Me
+## 🌐 Connect With Me
 
 <p align="center">
-
-<a href="https://instagram.com/tah4">
-<img src="https://skillicons.dev/icons?i=instagram" />
-</a>
-
+  <a href="https://instagram.com/tah4">
+    <img src="https://skillicons.dev/icons?i=instagram" />
+  </a>
 </p>
 
 ---
 
 <h3 align="center">
-
-Thanks for visiting my profile :')
-
+Thanks for visiting my profile :)
 </h3>
